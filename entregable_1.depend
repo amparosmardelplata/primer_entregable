@@ -1,6 +1,13 @@
 # depslib dependency file v1.0
-1679177409 source:c:\users\turina\documents\progs\entregable_1\main.c
+1679178877 source:c:\users\turina\documents\progs\entregable_1\main.c
 	<stdio.h>
 	<stdlib.h>
-	<limits.h>
+	"funciones.h"
+
+1679178739 c:\users\turina\documents\progs\entregable_1\funciones.h
+
+1679178865 source:c:\users\turina\documents\progs\entregable_1\funciones_implementacion.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
 
