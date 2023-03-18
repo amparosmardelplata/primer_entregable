@@ -1,1 +1,0 @@
-En el main se encuentra la estructura con sus funciones
